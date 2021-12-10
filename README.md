@@ -1,14 +1,16 @@
 # Scrabble Score
 This application takes a word and returns the Scrabble score of it based on the following:
 
-A, E, I, O, U, L, N, R, S, T       1
-D, G                               2
-B, C, M, P                         3
-F, H, V, W, Y                      4
-K                                  5
-J, X                               8
-Q, Z                               10
-
+| Letter | Value |
+| ----------- | ----------- |
+A, E, I, O, U, L, N, R, S, T  |     1
+D, G  |                             2
+B, C, M, P  |                       3
+F, H, V, W, Y  |                    4
+K   |                               5
+J, X  |                             8
+Q, Z  |                             10
+<br>
 #### By Jeff Lai, Skylar Brockbank & Karen Axon
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
